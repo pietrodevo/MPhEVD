@@ -7,7 +7,7 @@
 """
 
 MPhEV
-Metastatistical Physically-based Extreme Values
+Metastatistical Physically-based Extreme Value
 
 author: pietro devò
 e-mail: pietro.devo@phd.unipd.it
