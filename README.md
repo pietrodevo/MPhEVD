@@ -21,7 +21,7 @@ The framework follows this directory structure:
 ├── 📂 meta/          # Database of stations and main reference information
 ├── 📂 modules/       # Python modules specific to the framework
 ├── 📂 scripts/       # Main analysis scripts
-├── 📂 series/        # Raw time series data from various datasets
+└── 📂 series/        # Raw time series data from various datasets
 ```
 
 ## Dependencies  
